@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Mona Sans","Mona Sans Fallback",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+body{
+    background-image: linear-gradient(0deg,rgba(0,0,0,1.8) 0,transparent 69%,rgba(0,0,0,3.8)), url("/Javasrc/phs/logo.jpg") !important;
+
+}
+
+.center{
+    background-color:rgba(0,0,0,.75);
+    border-radius: 4px;
+    padding: 60px 68px 40px;
+    margin-left: auto;
+    margin-right:auto;
+    width:450px;
+    min-height: 660px;
+   
+}
+h2{
+    color: azure;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+input[type="text"]
+{
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    padding: 16px 20px 0;
+    background: #333;
+    width: 100%;
+}
+span{
+    color: #b3b3b3;
+    font-size: 14px;
+}
+input[type="checkbox"] 
+{
+     margin-top: 15px;
+     height: 14px;
+     width:14px;
+     background-color:#333 ;
+     margin-left: 3px;
+}
+button{
+    width: 100%;
+    border-radius: 6px !important;
+    color: aliceblue !important;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 24px 0 12px 12px;
+    padding: 16px;
+    background: #e50914;
+}
+p{
+    color: #e87c03;
+    margin-bottom: -6px;
+    padding: 6px 3px;
+    font-size: 13px;
+    
+}
